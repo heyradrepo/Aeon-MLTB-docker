@@ -39,7 +39,7 @@ python3.12 -m venv xyenv
     feedparser flask gevent google-api-python-client \
     google-auth-httplib2 google-auth-oauthlib gunicorn \
     httpx lxml motor natsort pillow psutil pymongo \
-    pyrofork==2.2.11 python-dotenv python-magic qbittorrent-api \
+    python-dotenv python-magic qbittorrent-api \
     requests telegraph tenacity tgcrypto urllib3 uvloop \
     xattr yt-dlp[default]
 
